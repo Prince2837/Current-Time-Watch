@@ -1,0 +1,23 @@
+body{
+    background-image: url(nature.png);
+}
+.container{
+    width: 30%;
+    height: 200px;
+    background-color: grey;  
+    margin-top: 250px;
+    box-shadow: red;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin-left: 500px;
+    background: transparent;
+    
+}
+p{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
