@@ -14,6 +14,6 @@ The clock updates every second and shows hours, minutes, and seconds in a clean 
 ---<br>
 
 ## 🛠️ Technologies Used
-- HTML5  <br>
+- HTML  <br>
 - CSS3  <br>
 - JavaScript (Vanilla JS) <br>
